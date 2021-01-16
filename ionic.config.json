@@ -1,0 +1,7 @@
+{
+  "name": "dovizApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
