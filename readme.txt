@@ -39,8 +39,14 @@ tutuluyorlar her kullanıcının kendine özel my-currency sayfası var kullanı
 my-currency ye eklebilirler
 Git commitleri üzerinden gerekli geliştirmlerin adımları takip edilebilir.....
 -------------------------------
+APİ'miz bize Euro para birimine göre listelenmektedir.
 Resimler
 Kayıt ve kullanıcı girişinin bulunduğu ekran
 Kullanıcı giriş yapacağı sırada firebase'de daha önce böyle bir kayıt olup olmadığını kontrol edip daha sonra giriş imkanı sunar.
 Eğer kullanıcı üye olacaksa yine firebase vasıtasıyla yeni kayıt açar.
-![img1](https://github.com/uguraktss/ionic-mobil/blob/master/1.png)
+https://github.com/uguraktss/ionic-mobil/blob/master/1.png
+all-currency kısmı doviz api'den çektiğimiz tüm  döviz bilgilerini listeler
+https://github.com/uguraktss/ionic-mobil/blob/master/2.png
+my-currency kısmı doviz api'den çektiğimiz tüm  döviz bilgilerini özel olarak seçtiğimiz para birimlerini listeler
+https://github.com/uguraktss/ionic-mobil/blob/master/3.png
+
