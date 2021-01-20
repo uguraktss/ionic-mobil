@@ -38,3 +38,9 @@ all-currency Bu ekranda Apiden gelen döviz değerleri listelenmektedir 168 adet
 tutuluyorlar her kullanıcının kendine özel my-currency sayfası var kullanıcılar kendilerine göre takip ettikleri para birimlerini 
 my-currency ye eklebilirler
 Git commitleri üzerinden gerekli geliştirmlerin adımları takip edilebilir.....
+-------------------------------
+Resimler
+Kayıt ve kullanıcı girişinin bulunduğu ekran
+Kullanıcı giriş yapacağı sırada firebase'de daha önce böyle bir kayıt olup olmadığını kontrol edip daha sonra giriş imkanı sunar.
+Eğer kullanıcı üye olacaksa yine firebase vasıtasıyla yeni kayıt açar.
+![img1](https://github.com/uguraktss/ionic-mobil/blob/master/1.png)
